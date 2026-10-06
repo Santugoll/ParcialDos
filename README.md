@@ -1,5 +1,5 @@
 # Segundo Parcial - Servicios Telemáticos
-
+Santiago López López, Sebastian Bustamante Lopez, Byron Steven Zapata Zapata
 Implementación del segundo parcial de Servicios Telemáticos.
 
 ## Topología
